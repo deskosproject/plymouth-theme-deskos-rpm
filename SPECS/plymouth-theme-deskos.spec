@@ -3,7 +3,7 @@
 
 Name:           plymouth-theme-deskos
 Version:        0.1
-Release:        1
+Release:        1%{?dist}
 Summary:        Plymouth DeskOS Theme
 
 Group:          System Environment/Base
