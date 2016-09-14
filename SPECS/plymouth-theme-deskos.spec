@@ -8,9 +8,9 @@ Summary:        Plymouth DeskOS Theme
 
 Group:          System Environment/Base
 License:        CC-BY-SA
-URL:            https://deskosproject.org
-Source0:        http://deskosproject.org/sources/plymouth-theme-deskos/%{name}-%{version}.tar.gz
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
+URL:            https://github.com/deskosproject/plymouth-theme-deskos-rpm
+Source0:        https://dl.deskosproject.org/sources/plymouth-theme-deskos/%{name}-%{version}.tar.gz
+
 BuildArch:      noarch
 Requires:       plymouth-plugin-two-step
 Requires(post): plymouth-scripts
