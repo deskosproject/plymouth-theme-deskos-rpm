@@ -1,0 +1,3 @@
+= DeskOS: plymouth-theme-deskos RPM
+
+This is the _plymouth-theme-deskos_ RPM package for the *DeskOS* operating system.
